@@ -1,0 +1,30 @@
+
+{
+ "expirationts": "2018-07-19T00:00:00",
+  "_domains": [
+    {
+      "name": "FORECLOSUREHELPSTRATEGIES.COM",
+      "id": -1,
+      "renewalPfTypeId": 2,
+      "isAutoRenewal": false,
+      "expiry": "2018-07-19T00:00:00",
+      "daysToExpiry": 29
+    },
+    {
+      "name": "LEASE-TO-OWN-STRATEGIES.COM",
+      "id": -2,
+      "renewalPfTypeId": 2,
+      "isAutoRenewal": true,
+      "expiry": "2018-07-19T00:00:00",
+      "daysToExpiry": 29
+    },
+    {
+      "name": "PREFORECLOSURESTRATEGIES.COM",
+      "id": -3,
+      "renewalPfTypeId": 2,
+      "isAutoRenewal": false,
+      "expiry": "2018-07-19T00:00:00",
+      "daysToExpiry": 29
+    }
+  ]
+}

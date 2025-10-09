@@ -1,0 +1,31 @@
+{
+    "order":
+{
+    "orderId": "10320241RR",
+    "orderDateTime": "2020-02-27T12:12:11.8380207-07:00",
+    "currency": "USD",
+    "subtotal": -2799,
+    "specialSavings": 0,
+    "shippingAndHandling": 0,
+    "storeCredit": 0,
+    "tax": -241,
+    "total": -3040,
+    "items": [
+      {
+        "pfId": 566286,
+        "amount": -1000,
+        "quantity": 2,
+        "domains": [
+          "test1.com",
+          "test2.com"
+        ]
+      },
+      {
+        "pfId": 99998,
+        "amount": -1799,
+        "quantity": 1,
+        "domains": []
+      }
+    ]
+}
+}

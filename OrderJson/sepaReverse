@@ -1,9 +1,6 @@
 {
-  {
-    "ORDER_ID": {"2219"},
-  },
   "OrderJson": {
-    "OrderId": "2204453808",
+    "OrderId": "2204466499",
     "TransactionCurrency": "USD",
     "Shipping": 0,
     "ThirdPartyShipping": 0,
@@ -22,17 +19,17 @@
           "AutoRenew": true,
           "_productId": 1555613,
           "_productTypeId": 652,
-          "paymentsMade": 5,
+          "paymentsMade": 8,
           "productFamily": "domain",
           "productType": "leasedDomain",
           "isSlowTransfer": true,
           "numberOfPayments": 23,
-          "nextPaymentDate": "2024-03",
+          "nextPaymentDate": "2024-06",
           "totalPaymentAmount": 2640400,
           "domainName": "reseller-testing-1669565306977.com",
           "isLtoProduct": true,
-          "ParentGroupId": "02e70fcd-6ff9-492c-b044-e8b1ccdafba4",
-          "GroupId": "02e70fcd-6ff9-492c-b044-e8b1ccdafba4",
+          "ParentGroupId": "b9c26062-013b-42d9-8abf-b13faf20d9e6",
+          "GroupId": "b9c26062-013b-42d9-8abf-b13faf20d9e6",
           "ItemTrackingCode": "0b7a60b4-0131-4566-9a62-1f1868af9936",
           "ProductName": "Lease to Own Domain Monthly Payment",
           "QuantityUnitEx": "QuantityUser",
@@ -41,7 +38,34 @@
           "PeriodValue": 1,
           "Duration": "1",
           "Price": 104365,
-          "RenewalPrice": 114800,
+          "RenewalPrice": 0,
+          "RenewalDate": ""
+        },
+        {
+          "IsDisplayedInCart": true,
+          "AutoRenew": true,
+          "_productId": 1555613,
+          "_productTypeId": 652,
+          "paymentsMade": 1,
+          "productFamily": "domain",
+          "productType": "leasedDomain",
+          "isSlowTransfer": true,
+          "numberOfPayments": 23,
+          "nextPaymentDate": "2024-06",
+          "totalPaymentAmount": 2640400,
+          "domainName": "reseller-testing-1669565306977.com",
+          "isLtoProduct": true,
+          "ParentGroupId": "b9c26062-013b-42d9-8abf-b13faf20d9e6",
+          "GroupId": "b9c26062-013b-42d9-8abf-b13faf20d9e6",
+          "ItemTrackingCode": "0b7a60b4-0131-4566-9a62-1f1868af9936",
+          "ProductName": "Lease to Own Domain Monthly Payment",
+          "QuantityUnitEx": "QuantityUser",
+          "QuantityValue": 1,
+          "PeriodUnitEx": "PeriodMonth",
+          "PeriodValue": 1,
+          "Duration": "1",
+          "Price": 104365,
+          "RenewalPrice": 0,
           "RenewalDate": ""
         },
         {
@@ -49,7 +73,8 @@
           "AutoRenew": true,
           "_productId": 1632763,
           "_productTypeId": 657,
-          "GroupId": "02e70fcd-6ff9-492c-b044-e8b1ccdafba4",
+          "isLtoProduct": true,
+          "GroupId": "b9c26062-013b-42d9-8abf-b13faf20d9e6",
           "ItemTrackingCode": "0b7a60b4-0131-4566-9a62-1f1868af9936",
           "ProductName": "Monthly Lease Service Fee",
           "QuantityUnitEx": "QuantityUser",
@@ -59,12 +84,18 @@
           "Duration": "1.0000",
           "Price": 10435,
           "RenewalPrice": 0,
-          "RenewalDate": "2024-11-22"
+          "RenewalDate": "2024-11-30"
         }
       ],
-      "paragraphIds": "",
       "count": 2,
       "domainsOnlyOrder": false
     }
+  },
+  "substitutionValues": {
+    "ORDER_ID": "2210048489",
+    "CREDITOR_NAME": "Adyen N.V.",
+    "CREDITOR_ID": "NL48ZZZ342764500000",
+    "MANDATE_ID": "LKZXCL3ZTSQ9PPV5",
+    "IBAN_ENDS_WITH": "4946"
   }
 }

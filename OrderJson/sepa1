@@ -1,5 +1,5 @@
 {
-  {
+  "substitutionValues": {
     "ORDER_ID": "2210048489",
     "CREDITOR_NAME": "Adyen N.V.",
     "CREDITOR_ID": "NL48ZZZ342764500000",
@@ -66,7 +66,7 @@
           "RenewalDate": "2024-11-22"
         }
       ],
-      "paragraphIds": "",
+      "paragraphIds": "3",
       "count": 2,
       "domainsOnlyOrder": false
     }

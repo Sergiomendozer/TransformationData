@@ -1,0 +1,96 @@
+{
+  "Products": {
+    "Products": [
+      {
+        "childProducts": [],
+        "Pfid": 580971,
+        "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+        "ProductNameSpace": "wpaas",
+        "IsBundle": false,
+        "DomainName": "BANANA.ai",
+        "ExpirationTS": "2024-10-12T01:00:00",
+        "IsAutorenewing": true,
+        "TermLength": 1,
+        "TermType": "Year",
+        "FormattedPrice": "£95.88",
+        "SubscriptionID": "306730950:457",
+        "Addons": []
+      },
+      {
+        "childProducts": [],
+        "Pfid": 580971,
+        "ProductFriendlyName": "ChatGPT defense network",
+        "ProductNameSpace": "wpaas",
+        "IsBundle": false,
+        "DomainName": "thisistheway.co",
+        "ExpirationTS": "2023-04-12T01:00:00",
+        "IsAutorenewing": false,
+        "TermLength": 1,
+        "TermType": "Year",
+        "FormattedPrice": "£95.88",
+        "SubscriptionID": "306730950:457",
+        "Addons": []
+      },
+      {
+        "childProducts": [],
+        "Pfid": 580971,
+        "ProductFriendlyName": "ChatGPT defense network",
+        "ProductNameSpace": "wpaas",
+        "IsBundle": true,
+        "DomainName": "domain.com",
+        "ExpirationTS": "2023-04-12T01:00:00",
+        "IsAutorenewing": false,
+        "TermLength": 1,
+        "TermType": "Year",
+        "FormattedPrice": "£95.88",
+        "SubscriptionID": "306730950:457",
+        "Addons": []
+      },
+      {
+        "childProducts": [],
+        "Pfid": 580971,
+        "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+        "ProductNameSpace": "wpaas",
+        "IsBundle": false,
+        "DomainName": "banana.ai",
+        "ExpirationTS": "2024-10-12T01:00:00",
+        "IsAutorenewing": true,
+        "TermLength": 1,
+        "TermType": "Year",
+        "FormattedPrice": "£95.88",
+        "SubscriptionID": "306730950:457",
+        "Addons": []
+      },
+      {
+        "childProducts": [],
+        "Pfid": 580971,
+        "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+        "ProductNameSpace": "wpaas",
+        "IsBundle": false,
+        "DomainName": "banana.ai",
+        "ExpirationTS": "2024-10-12T01:00:00",
+        "IsAutorenewing": true,
+        "TermLength": 1,
+        "TermType": "Year",
+        "FormattedPrice": "£95.88",
+        "SubscriptionID": "306730950:457",
+        "Addons": []
+      },
+      {
+        "childProducts": [],
+        "Pfid": 580971,
+        "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+        "ProductNameSpace": "wpaas",
+        "IsBundle": false,
+        "DomainName": "banana.ai",
+        "ExpirationTS": "2024-10-12T01:00:00",
+        "IsAutorenewing": true,
+        "TermLength": 1,
+        "TermType": "Year",
+        "FormattedPrice": "£95.88",
+        "SubscriptionID": "306730950:457",
+        "Addons": []
+      }
+    ]
+  }
+}

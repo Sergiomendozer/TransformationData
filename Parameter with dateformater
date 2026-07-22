@@ -1,0 +1,134 @@
+{
+  "ExpirationTS": "2023-12-11T01:00:00",
+  "products": [
+    {
+      "childProducts": [
+        {
+          "Pfid": 580971,
+          "ProductFriendlyName": "Wordpress Child 1",
+          "ProductNameSpace": "wpaas"
+        },
+        {
+          "Pfid": 580971,
+          "ProductFriendlyName": "Wordpress Child 2",
+          "ProductNameSpace": "wpaas"
+        }
+      ],
+      "Pfid": 580971,
+      "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+      "ProductNameSpace": "wpaas",
+      "IsBundle": false,
+      "DomainName": "www.naturas.co.uk",
+      "ExpirationTS": "2023-12-11T01:00:00",
+      "BillingTS": "2026-05-23",
+      "daysuntilexpiration": 12,
+      "IsAutorenewing": true,
+      "TermLength": 1,
+      "TermType": "Year",
+      "FormattedPrice": "£95.88",
+      "SubscriptionID": "306730950:457",
+      "Addons": [
+        {
+          "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+          "TermLength": 1,
+          "TermType": "Year",
+          "FormattedPrice": "£10.00",
+          "AddonInstanceCount": 2
+        }
+      ]
+    },
+    {
+      "childProducts": [
+        {
+          "Pfid": 580971,
+          "ProductFriendlyName": "Skynet",
+          "ProductNameSpace": "wpaas"
+        }
+      ],
+      "Pfid": 580971,
+      "ProductFriendlyName": "ChatGPT defense network",
+      "ProductNameSpace": "wpaas",
+      "IsBundle": false,
+      "DomainName": "",
+      "ExpirationTS": "2023-05-12T01:00:00",
+      "BillingTS": "2026-05-23",
+      "daysuntilexpiration": 12,
+      "IsAutorenewing": false,
+      "TermLength": 1,
+      "TermType": "Year",
+      "FormattedPrice": "£95.88",
+      "SubscriptionID": "306730950:458",
+      "Addons": [
+        {
+          "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+          "TermLength": 1,
+          "TermType": "Year",
+          "FormattedPrice": "£10.00",
+          "AddonInstanceCount": 0
+        }
+      ]
+    },
+    {
+      "childProducts": [
+        {
+          "Pfid": 580971,
+          "ProductFriendlyName": "Skynet",
+          "ProductNameSpace": "wpaas"
+        }
+      ],
+      "Pfid": 580971,
+      "ProductFriendlyName": "ChatGPT defense network",
+      "ProductNameSpace": "wpaas",
+      "IsBundle": true,
+      "DomainName": "www.naturas.co.uk",
+      "ExpirationTS": "2023-11-12T01:00:00",
+      "BillingTS": "2026-05-23",
+      "daysuntilexpiration": 12,
+      "IsAutorenewing": false,
+      "TermLength": 1,
+      "TermType": "Year",
+      "FormattedPrice": "£95.88",
+      "SubscriptionID": "306730950:459",
+      "Addons": [
+        {
+          "ProductFriendlyName": "Basic Managed WordPress Websites Renewal",
+          "TermLength": 1,
+          "TermType": "Year",
+          "FormattedPrice": "£10.00",
+          "AddonInstanceCount": 0
+        }
+      ]
+    },
+    {
+      "childProducts": [
+        {
+          "Pfid": 580972,
+          "ProductFriendlyName": "Email Security Child",
+          "ProductNameSpace": "email"
+        }
+      ],
+      "Pfid": 580972,
+      "ProductFriendlyName": "Advanced Email Protection",
+      "ProductNameSpace": "email",
+      "IsBundle": false,
+      "DomainName": "secure.naturas.co.uk",
+      "ExpirationTS": "2024-07-19T14:30:00",
+      "BillingTS": "2026-05-23",
+      "daysuntilexpiration": 12,
+      "IsAutorenewing": true,
+      "TermLength": 1,
+      "TermType": "Year",
+      "FormattedPrice": "£49.99",
+      "SubscriptionID": "306730950:460",
+      "Addons": [
+        {
+          "ProductFriendlyName": "Spam Filter Plus",
+          "TermLength": 1,
+          "TermType": "Year",
+          "FormattedPrice": "£5.00",
+          "AddonInstanceCount": 0
+        }
+      ]
+    }
+  ]
+}
